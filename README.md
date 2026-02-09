@@ -40,4 +40,4 @@ python app.py                 # запустит веб-приложение
 [Ссылка на репозиторий](https://github.com/kobyshevt-ui/project.git)
 
 ## Видео
-[[Ссылка на видео](https://vk.ru/video531703734_456239163)
+[Ссылка на видео](https://vk.ru/video531703734_456239163)
